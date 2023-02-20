@@ -1,0 +1,1 @@
+Descripción; Zara tiene el pelo normalmente
