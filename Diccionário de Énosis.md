@@ -1,1 +1,1 @@
-Ciclo - Periodo de 10 dias, 
+Ciclo - Periodo de 10 días, 
