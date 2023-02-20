@@ -1,1 +1,2 @@
 <font color="#0070c0">"Mientras surcais los cielos, con apenas tiempo para equiparos vuestros bartulos. El sonido del aire ensordecedor os impide distinguis la macabra risa de vuestra compañera que os ha salvado, os agarrais de tal manera que antes perderiais los brazos que caeiriais"</font>
+sad 

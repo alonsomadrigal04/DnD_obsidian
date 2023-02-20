@@ -1,1 +1,1 @@
-Descripción; Zara tiene el pelo normalmente desañilado y bastante sucio a primera vista. (si tiran un Perception 16 sabran que las puntas estan embadurnadas con un pigmento magico capaz de hacer que el portador no embegezca)
+Descripción; Zara tiene el pelo normalmente desanimado y bastante sucio a primera vista. *(si tiran un Percepción 16 sabrán que las puntas están embadurnadas con un pigmento mágico capaz de hacer que el portador no envejezca)*
