@@ -3,4 +3,6 @@
 Calendario:
 	**Días**; Dulen, Shulen, Theden, Odren, Hepten, Saen, Ocaso, Abatida, Prendido y Duelo.
 	**Meses**; Deshielo, Medra (invierno), barbecho, Siega, Fervo, Kalt y Penuria
-	
+| invierno | Deshielo | Medra |
+| -------- | -------- | ----- |
+|          |          |       |
