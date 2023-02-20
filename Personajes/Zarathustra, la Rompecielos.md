@@ -8,4 +8,5 @@
 	
 Historia 
 	- La "Rompecielos" viene a ser un título otorgado por el gobernador de la casa Parlon de Tromos. 
-	- Hace 25 años (21 años), Zara gracias a su madre comenzaba a comprender el arte de la ilusión, un tipo de magia no muy explorada, pero que su familia dominaba con mucha soltura y facilidad. Esto era debido a la condicion de ladrones que conllevaba
+	- Hace 25 años (21 años), Zara gracias a su madre comenzaba a comprender el arte de la ilusión, un tipo de magia no muy explorada, pero que su familia dominaba con mucha soltura y facilidad. Esto era debido a la condición de ladrones que conllevaba y arrastraba su linaje desde hacía tiempo, desde joven había comenzado a dar atisbos de una superdotación de conocimiento y comprensión brutal.
+	  Pese a ello su familia no quiso aprovechar este tremendo intelecto de la muchacha y acabo convirtiendose en ladrona tambien. 
