@@ -1,1 +1,1 @@
-Descripción; Zara tiene el pelo normalmente
+Descripción; Zara tiene el pelo normalmente desañilado y bastante sucio a primera vista. (si tiran un Perception 16 sabran que las puntas estan embadurnadas con un pigmento magico capaz de hacer que el portador no embegezca)
