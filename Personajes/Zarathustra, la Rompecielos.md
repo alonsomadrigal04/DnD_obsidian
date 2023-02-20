@@ -1,2 +1,2 @@
 **Descripción**; 
-	<u>Zara tiene el pelo normalmente desanimado y bastante sucio a primera vista</u>. *(si tiran un Percepción 16 sabrán que las puntas están embadurnadas con un pigmento mágico capaz de hacer que el portador no envejezca)* tiene unos ojos clarisimos de un intenso color azulado![[Mujer_loca.png]]
+	<u>Zara tiene el pelo normalmente desanimado y bastante sucio a primera vista</u>. *(si tiran un Percepción 16 sabrán que las puntas están embadurnadas con un pigmento mágico capaz de hacer que el portador no envejezca)* tiene unos ojos clarisimos de un intenso color azulado![[Zara.png]]
