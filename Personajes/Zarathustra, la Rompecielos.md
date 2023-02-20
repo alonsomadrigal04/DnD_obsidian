@@ -7,4 +7,5 @@
 		![[Zara.png]] 
 	
 Historia 
-	- La "Rompecielos" viene a ser un título otorgado por el gobernador de la casa Parlon de Tromos
+	- La "Rompecielos" viene a ser un título otorgado por el gobernador de la casa Parlon de Tromos. 
+	- Hace 25 años (), cuando Zara apenas había dominado el arte de la ilusión gracias a su madre. Su familia   
