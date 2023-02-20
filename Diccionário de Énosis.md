@@ -1,1 +1,1 @@
-Ciclo - Periodo de 10 días, 
+Ciclo - serie de 10 dias consecutivos, de 
