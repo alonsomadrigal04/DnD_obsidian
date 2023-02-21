@@ -18,4 +18,4 @@
 
 El Kindori se llama; "Ouranios" se trata de un ejemplar extremadamente joven, capaz de viajar entre planos y el espacio. 
 
-Casa; Su casa se encuentra en Ektós, en los montes silvestres, escondidas tras unas montañas, se encuentra una cueva guarida amueblada con un aspecto un tanto abandonado. Se respira una humedad fria e intensa, pero no desagradable. En el interior de la cueva hay una serie muebles 
+Casa; Su casa se encuentra en Ektós, en los montes silvestres, escondidas tras unas montañas, se encuentra una cueva guarida amueblada con un aspecto un tanto abandonado. Se respira una humedad fria e intensa, pero no desagradable. En el interior de la cueva hay una serie ![[Cueba de Zara.png]]mueble 
