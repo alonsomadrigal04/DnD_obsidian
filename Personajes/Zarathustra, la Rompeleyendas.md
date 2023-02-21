@@ -14,4 +14,5 @@ Historia
 	  Finalmente, gracias a una serie de leyendas, llego a un lugar recóndito del mundo de Énosis el cual nunca ha llegado a desvelar a nadie. Pero lo que vio en ese lugar le llevo a ponerse el collar de espinas que ahora lleva en el cuello. Desde entonces nunca volvió a ser la misma.
 	
 
-Casa y Kindory
+Casa y Kindori
+	El Kindori se llama; "Ouranios" se trata de un 
