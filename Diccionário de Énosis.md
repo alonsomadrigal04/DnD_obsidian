@@ -10,4 +10,4 @@ Calendario:
 | Verano    |      Fervo      | Kalt (mediados) |
 | Otoño     | Kalt (mediados) |     Penuria     |
 
-Casas; las casas son instituciones que organizan y 
+**Casas**; el sistema de casas es una forma de gobierno actual en el reino de Énosis. Cada País tiene una serie de casas que gobiernan dicho país. Las casas de un mismo país no tienen por qué ser perros aliados ni tener las mismas leyes, solo compartir un mismo territorio. Es por ello que en un mismo país puede haber diferentes leyes sujetas en una base sólida pero flexible.
