@@ -10,3 +10,4 @@ Calendario:
 | Verano    |      Fervo      | Kalt (mediados) |
 | Otoño     | Kalt (mediados) |     Penuria     |
 
+Casas; las casas son instituciones que organizan y 
