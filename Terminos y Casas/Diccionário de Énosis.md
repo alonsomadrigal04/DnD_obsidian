@@ -10,11 +10,14 @@
 | Otoño     | Kalt (mediados) |     Penuria     |
 
 ### **Casas**:
-<p align="justify">El sistema de casas es la forma de gobierno actual en el reino de Énosis. Cada País tiene una serie de casas que gobiernan dicho país. Las casas de uno mismo  no tienen por qué ser perros aliados ni tener las mismas leyes, solo compartir un mismo territorio. Es por ello que en un mismo país puede haber diferentes leyes sujetas en una base sólida pero flexible.</p>
+<p align="justify">El sistema de casas es la forma de gobierno actual en el reino de Énosis. Cada País tiene una serie de casas que lo gobiernan, controlan y gestionan. Estas mismas casas  no tienen por qué ser por que ser aliados ni tener las mismas leyes, solo compartir un mismo territorio. Es por ello que en un mismo país puede haber diferentes leyes sujetas en una base sólida pero flexible.</p>
 Las casas tienen su propia jerarquia;
-| Primera corona | Ventur (Polemos)   |
-| -------------- | --- |
-| Segunda corona | Erikel  (poelmos) |
-| Tercera corona |    Luru, Menister |
-| Casas menores  |  Kerman   |
+| Primera corona | Ventur (P)         |
+| -------------- | ------------------ |
+| Segunda corona | Erikel (P)         |
+| Tercera corona | Luru, Menister (V) |
+| Casas menores  | Kerman (V)         |
 
+
+
+### **Países**
