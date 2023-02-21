@@ -21,9 +21,12 @@ Las casas tienen su propia jerarquia;
 
 ### **Países**
 **Dynami**
+	Casas; 
 **Varys**
 **Ektós**
 **Pólemos**
+	Casas;
+		
 **Athoós**
 **Sfyrí**
 **Tromos**
