@@ -18,4 +18,4 @@
 
 El Kindori se llama; "Ouranios" se trata de un ejemplar extremadamente joven, capaz de viajar entre planos y el espacio. 
 
-Casa; Su casa se encuentra en Ektós, en los montes silvestres,
+Casa; Su casa se encuentra en Ektós, en los montes silvestres, escondidas tras unas montañas se encuentar una cueva guarida amueblada bastante 
