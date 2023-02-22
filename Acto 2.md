@@ -2,4 +2,4 @@
 - Ambient music: https://www.youtube.com/watch?v=zBdB6s-HvWY
 - Efectos de sonido (viento):
 <font color="#0070c0">"El Kindori finalmente acaba frenando estrepitosamente. Os habéis movido tanto que no estáis seguros del sitio donde os encontráis"</font> (Pueden tirar un dado de WISDOM para saber la posición en la que están)
-"El Kindori os deja en medio de un terreno montañoso, en el que la piedra de alrededor es notablemente blanca. De un salto desde el lomo de la colosal criatura baja de un salto la mujer que os ha permitido ver más amaneceres. Con una mirada llena de locura os mira "
+"El Kindori os deja en medio de un terreno montañoso, en el que la piedra de alrededor es notablemente blanca. De un salto desde el lomo de la colosal criatura baja de un salto la mujer que os ha permitido ver más amaneceres. Con una mirada llena de locura os mira"
