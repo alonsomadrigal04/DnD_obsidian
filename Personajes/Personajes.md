@@ -1,1 +1,2 @@
-Zara, la RompeLeyendas [[Zarathustra, la Rompeleyendas]]
+Aliados:
+- [[Zarathustra, la Rompeleyendas]]
