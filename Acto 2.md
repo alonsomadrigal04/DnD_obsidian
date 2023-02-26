@@ -7,7 +7,7 @@
 
 	![[Cueba de Zara.png]]
 
-En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre para recopilar información:
+En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre para recopilar información y encontrar una ruta:
 
 ---
 
