@@ -10,4 +10,4 @@
 En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre para recopilar información y encontrar una ruta:
 
 ---
-
+Se les hará entrega del "Documento_1". Zara dirá que 
