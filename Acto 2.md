@@ -6,4 +6,8 @@
 <p align="justify"><font color="#0070c0">"El Kindori os deja en medio de un terreno montañoso, en el que la piedra de alrededor es notablemente blanca. De un salto desde el lomo de la colosal criatura baja de un salto la mujer que os ha permitido ver más amaneceres. Con una mirada llena de locura os mira y os recibe en lo ella llama su hogar"</font></p>
 
 	![[Cueba de Zara.png]]
-En la cueva hay varios libros 
+
+En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre para recopilar información:
+
+---
+
