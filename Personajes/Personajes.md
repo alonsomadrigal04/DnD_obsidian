@@ -1,6 +1,6 @@
 Aliados:
 - [[Zarathustra, la Rompeleyendas]]
 Enemigos:
-- Helios 
+- [[Helios de Erikel]]
 
 
