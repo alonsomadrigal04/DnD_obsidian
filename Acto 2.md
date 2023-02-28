@@ -18,8 +18,12 @@ Fuego: https://www.youtube.com/watch?v=Qy6No_Ua4B8
 Ambiente: https://www.youtube.com/watch?v=QTj6EFaz1Es
 Zara invitará a acomodarse en la guarida mientras van concretando los planes.
 
-Preguntas que hará Zara: ¿Cuanto tiempo?
+Preguntas que hará Zara: **¿Nombres? ¿Cuánto tiempo estuvisteis encerrados entonces? ¿De dónde sois cada uno?** 
 
-Zara dice:  "Bueno, después de haber leído los documentos, llamarme loca, pero estoy bastante segura que los documentos hablan sobre vosotros. Y el otro documento habla sobre cierta arma, la cual creo que voy a terminar robando. Lleva todo el mundo detrás de esa arma, esa arma es demasiado peligrosa, yo no quiero que nadie utilice esa arma. Pueden desatar el caos y nadie sabe el peligro que correo el mundo de Énosis con esa arma y vosotros me vais a ayudar a encontrar esa arma."
+Zara dice:  <font color="#0070c0">"Bueno, después de haber leído los documentos, llamarme loca, pero estoy bastante segura que los documentos hablan sobre vosotros. Y el otro documento habla sobre cierta arma, la cual creo que voy a terminar robando. Lleva todo el mundo detrás de esa arma, esa arma es demasiado peligrosa, yo no quiero que nadie utilice esa arma. Pueden desatar el caos y nadie sabe el peligro que correo el mundo de Énosis con esa arma y vosotros me vais a ayudar a encontrar esa arma."</font>
 
-"Ahora bien, os doy dos opciones, se cuan de desesperado puede ser no acordarse de nada de lo que has hecho en mucho tiempo"
+<font color="#0070c0">"Ahora bien, os doy dos opciones, sé cuan de desesperado, puede ser no acordarse de nada de lo que has hecho en mucho tiempo... Podemos intentar encontrar vuestras memorias o podríamos adelantar faena e ir directamente a por el arma"</font>
+
+Dos rutas:
+- a
+- a
