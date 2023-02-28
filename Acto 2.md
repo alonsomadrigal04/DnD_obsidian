@@ -32,7 +32,11 @@ Dos rutas:
 
 <font color="#0070c0">"Segun el documento, las memorias se guardan en algún tipo de mansion o algo por el estilo. Creo que se de que se puede tratar. Os llevaré hasta allí. Pero yo no puedo ayudaros. Os tendreis que dividir la mision en varios dias para poder llevarla con exito, tampoco queremos que monteis tan jaleo que os vuelvan a encerrar"</font>
 
-- Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un fuerte militar. Ella sabe la ubicación pero no exactamente donde esta.
+- Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un fuerte militar. Ella sabe la ubicación, pero no exactamente donde está.
+| Nombre | Evento |     |
+| ------ | ------ | --- |
+| Grifos | Los grifos estan solamente res       |     |
+|        |        |     |
 
 
 
