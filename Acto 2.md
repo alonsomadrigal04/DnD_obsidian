@@ -18,4 +18,4 @@ Fuego: https://www.youtube.com/watch?v=Qy6No_Ua4B8
 Ambiente: https://www.youtube.com/watch?v=QTj6EFaz1Es
 Zara invitará a acomodarse en la guarida mientras van concretando los planes.
 
-Zara dice: "Pues si n "
+Zara dice:  "Bueno, después de haber leído los documentos, llamarme loca, pero estoy bastante segura que los documentos hablan sobre vosotros"
