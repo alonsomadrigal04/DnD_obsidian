@@ -30,6 +30,7 @@ Dos rutas:
 ---
 ## Las mentes perdidas
 
+"Segun el documento, las memorias se guardan en algun tipo de mansion "
 
 
 
