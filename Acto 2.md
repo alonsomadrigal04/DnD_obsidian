@@ -51,12 +51,12 @@ image: [[Wikilink To Image]]
 name: Guardia
 size: Medium
 type: Humanoid
-subtype: H
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
+subtype: Elf
+alignment: ---
+ac: 14
+hp: 32
+hit_dice: 4d10 + 2
+speed: 35 fts.
 stats: [number, number, number, number, number, number]
 fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
