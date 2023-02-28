@@ -45,7 +45,25 @@ Dos rutas:
 |        |                                                                                                            |                                                                                                                                                               |
 
 #### Disposición del fuerte militar
-1. 
+1.  **Torre de vigilancia:** Una torre alta que se eleva sobre el campamento, permitiendo una vista panorámica de los alrededores. Característica: La vista desde la torre es impresionante, pero el ascenso es peligroso, ya que la escalera es antigua y puede romperse en cualquier momento.
+    
+2.  Barracas de soldados: Grandes tiendas de campaña donde duermen los soldados. Característica: Las barracas son espaciosas y acogedoras, pero la mayoría de los soldados están siempre de guardia, por lo que no hay mucha privacidad.
+    
+3.  Comedor: Un gran edificio donde los soldados comen y socializan. Característica: El comedor es ruidoso y lleno de actividad, pero también es un buen lugar para obtener información valiosa de los soldados desprevenidos.
+    
+4.  Enfermería: Un edificio dedicado a la atención médica de los soldados heridos o enfermos. Característica: La enfermería es un lugar tranquilo y pacífico, pero la mayoría de los soldados evitan entrar allí debido al miedo de contagiarse una enfermedad.
+    
+5.  Armería: Un edificio donde se almacenan y mantienen las armas y equipos militares. Característica: La armería es una de las áreas más protegidas del campamento, con guardias en la entrada y en el interior.
+    
+6.  Campo de entrenamiento: Un área abierta donde los soldados practican su combate y entrenan sus habilidades. Característica: El campo de entrenamiento es un lugar ruidoso y lleno de actividad, pero es un buen lugar para encontrar armas y equipo militar útiles.
+    
+7.  Cuartel general: Un edificio donde se encuentra el liderazgo militar del campamento. Característica: El cuartel general es un lugar de alta seguridad y solo se permite la entrada a los soldados de mayor rango.
+    
+8.  Tiendas de suministros: Pequeñas tiendas que venden suministros básicos a los soldados, como alimentos y agua. Característica: Las tiendas de suministros son un lugar concurrido, pero también un buen lugar para obtener información sobre el campamento.
+    
+9.  Campo de tiro con arco: Un área donde los soldados pueden practicar su puntería con arcos y flechas. Característica: El campo de tiro con arco es un lugar tranquilo y pacífico, pero los soldados siempre están en guardia, por lo que no es fácil colarse allí.
+    
+10.  Foso de entrenamiento con espadas: Un área donde los soldados practican el combate cuerpo a cuerpo con espadas. Característica: El foso de entrenamiento con espadas es ruidoso y lleno de actividad, y solo los soldados con experiencia están autorizados a entrar.
 
 
 
