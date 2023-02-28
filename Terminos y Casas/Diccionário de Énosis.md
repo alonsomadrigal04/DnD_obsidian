@@ -1,9 +1,10 @@
 **Ciclo** - serie de 10 días consecutivos, de Dulen a Duelo
 **Paso** - Un paso se trata del transcurso de 7 meses consecutivos que se conforman de 4 ciclos; desde Deshielo hasta Penuria
-
+Nó
 ### Calendario:
 **Días**; Dulen, Shulen, Theden, Odren, Hepten, Saen, Ocaso, Abatida, Prendido y Duelo.
 **Meses**; Deshielo, Medra, barbecho, Siega, Fervo, Kalt y Penuria
+N
 | invierno  |    Deshielo     |      Medra      |
 | --------- |:---------------:|:---------------:|
 | Primavera |    Barbecho     |      Siega      |
