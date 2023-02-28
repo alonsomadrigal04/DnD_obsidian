@@ -14,5 +14,8 @@ Se les hará entrega del "Documento_1" y "Documento_2. Zara dirá que pudo recog
 
 Zara no sabe qué les ha pasado ni por qué han sido encerrados. Zara fue encerrada, cosa que nuca nadie habían conseguido, Le habían encerrado allí porque ella sabía como abrir y usar el arma primigenia de la que tanto habla todo el mundo.
 
-
+Fuego: https://www.youtube.com/watch?v=Qy6No_Ua4B8
+Ambiente: https://www.youtube.com/watch?v=QTj6EFaz1Es
 Zara invitará a acomodarse en la guarida mientras van concretando los planes.
+
+Zara dice: "Pues si n "
