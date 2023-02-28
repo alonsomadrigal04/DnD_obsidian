@@ -41,59 +41,13 @@ Dos rutas:
 |        |                                                                                                            | si van por el camino de abajo no deberan tirar nada                                                                                                           |
 |        |                                                                                                            | Descubirán una especie de río que pasa por el fuerte, hay un agujero por el que se pueden colar pero tienen que superar un Cons 14 ST o recivir 1d4+2 de daño |
 |        |                                                                                                            | Siempre podrán crear una distraccion, recuerdales que hay guardias que salen y entran de vez en cuando                                                        |
+|        |                                                                                                            | Hay una puerta en la parte de atras que pueden encontra la llave si buscan, tiamn a un guardia                                                                |
+|        |                                                                                                            |                                                                                                                                                               |
 
-#### Disposición de el fuerte militar
+#### Disposición del fuerte militar
+1. 
 
 
-
-```statblock
-image: [[Wikilink To Image]]
-name: Guardia
-size: Medium
-type: Humanoid
-subtype: Elf
-alignment: ---
-ac: 14
-hp: 32
-hit_dice: 4d10 + 2
-speed: 35 fts.
-stats: [number, number, number, number, number, number]
-fage_stats: [number, number, number, number, number, number, number, number, number]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-```
 
 
 
