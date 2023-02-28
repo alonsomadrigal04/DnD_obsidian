@@ -13,6 +13,10 @@ En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre p
 Se les hará entrega del "Documento_1" y "Documento_2. Zara dirá que pudo recoger algunos documentos y estos fueron los que más le llamo la atención.
 ````
 ```statblock
+monster: <SRD/Homebrew Monster Name>
+```
+````````
+```statblock
 image: [[Wikilink To Image]]
 name: string
 size: string
