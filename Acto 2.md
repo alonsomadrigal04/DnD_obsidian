@@ -29,3 +29,35 @@ Dos rutas:
 - El arma legendaria
 ---
 ## Las mentes perdidas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
