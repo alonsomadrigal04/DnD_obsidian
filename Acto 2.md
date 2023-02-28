@@ -33,6 +33,7 @@ Dos rutas:
 <font color="#0070c0">"Segun el documento, las memorias se guardan en algún tipo de mansion o algo por el estilo. Creo que se de que se puede tratar. Os llevaré hasta allí. Pero yo no puedo ayudaros. Os tendreis que dividir la mision en varios dias para poder llevarla con exito, tampoco queremos que monteis tan jaleo que os vuelvan a encerrar"</font>
 
 - Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un fuerte militar. Ella sabe la ubicación, pero no exactamente donde está.
+
 #### Colarse en el fuerte
 | Nombre | Evento                                                                                                     | Soluciones                                                                                                                                                    |
 | ------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,10 +42,58 @@ Dos rutas:
 |        |                                                                                                            | Descubirán una especie de río que pasa por el fuerte, hay un agujero por el que se pueden colar pero tienen que superar un Cons 14 ST o recivir 1d4+2 de daño |
 |        |                                                                                                            | Siempre podrán crear una distraccion, recuerdales que hay guardias que salen y entran de vez en cuando                                                        |
 
+#### Disposición de el fuerte militar
 
 
 
-
+```statblock
+image: [[Wikilink To Image]]
+name: Guardia
+size: Medium
+type: Humanoid
+subtype: H
+alignment: string
+ac: number
+hp: number
+hit_dice: string
+speed: string
+stats: [number, number, number, number, number, number]
+fage_stats: [number, number, number, number, number, number, number, number, number]
+saves:
+  - <ability-score>: number
+skillsaves:
+  - <skill-name>: number
+damage_vulnerabilities: string
+damage_resistances: string
+damage_immunities: string
+condition_immunities: string
+senses: string
+languages: string
+cr: number
+spells:
+  - <description>
+  - <spell level>: <spell-list>
+traits:
+  - name: <trait-name>
+    desc: <trait-description>
+  - ...
+actions:
+  - name: <trait-name>
+    desc: <trait-description>
+  - ...
+legendary_actions:
+  - name: <legendary_actions-name>
+    desc: <legendary_actions-description>
+  - ...
+bonus_actions:
+  - name: <trait-name>
+    desc: <trait-description>
+  - ...
+reactions:
+  - name: <reaction-name>
+    desc: <reaction-description>
+  - ...
+```
 
 
 
