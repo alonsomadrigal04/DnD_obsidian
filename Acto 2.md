@@ -34,7 +34,10 @@ Dos rutas:
 
 - Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un laboratorio en una de las<u> islas flotantes de Vrachos</u>. 
 Estas son las cosas que pueden ir pasando antes de llegar al laboratorio:
-|Llegar hasta la isla|Hay dos caminos para poder llegar hasta la isla|O bien por|
+| Llegar hasta la isla | Hay dos caminos para poder llegar hasta la isla | O bien por el camino principal, que resulta ser una gran escalera de madera muy larga |
+| -------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------- |
+|                      |                                                 | O bien enocntrar un portal que les dice Zara que existe, el portal estará resguardado por un                               |
+|                      |                                                 |                                                                                       |
 
 
 
