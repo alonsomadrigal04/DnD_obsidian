@@ -44,7 +44,7 @@ Para recaudar información Tendrán las siguientes posibilidades:
 | La bliblioteca | En la biblioteca  hay un libro de leyendas llamado "Diccionario de localizaciones banidosas" os llama la atencion y leis lo que pone                                                                                                                                                                                          |                                                                                                                   |
 | El bar         | Si van a una taverna y estan desesperados pueden intentar escuchar la conversacion de alguien "Pues hace nada se escaparon unos de una prision, y como te dije la semana pasada, dicen que Helios y Merioth se han ido de Kerman, seguro que van de nuevo hacia el norte, pasan cosas muy raras cuando se esapan prisioneros" |                                                                                                                   |
 
-De camino hacia le arbol
+<center>De camino hacia le arbol</center>
 
 
 
