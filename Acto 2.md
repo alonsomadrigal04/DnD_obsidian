@@ -12,13 +12,14 @@ En la cueva hay varios libros y algo de polvo. Comienza entonces él encuentre p
 ---
 Se les hará entrega del "Documento_1" y "Documento_2. Zara dirá que pudo recoger algunos documentos y estos fueron los que más le llamo la atención.
 
-Zara no sabe qué les ha pasado ni por qué han sido encerrados. Zara fue encerrada, cosa que nuca nadie habían conseguido, Le habían encerrado allí porque ella sabía como abrir y usar el arma primigenia de la que tanto habla todo el mundo.
+- <u>Zara no sabe qué les ha pasado ni por qué han sido encerrados.</u> Zara fue encerrada, cosa que nuca nadie habían conseguido, Le habían encerrado allí porque ella sabía como abrir y usar el arma primigenia de la que tanto habla todo el mundo.
 
 Fuego: https://www.youtube.com/watch?v=Qy6No_Ua4B8
 Ambiente: https://www.youtube.com/watch?v=QTj6EFaz1Es
+
 Zara invitará a acomodarse en la guarida mientras van concretando los planes.
 
-Preguntas que hará Zara: **¿Nombres? ¿Cuánto tiempo estuvisteis encerrados entonces? ¿De dónde sois cada uno?** 
+- <u>Preguntas que hará Zara: **¿Nombres? ¿Cuánto tiempo estuvisteis encerrados entonces? ¿De dónde sois cada uno?** </u>
 
 Zara dice:  <font color="#0070c0">"Bueno, después de haber leído los documentos, llamarme loca, pero estoy bastante segura que los documentos hablan sobre vosotros. Y el otro documento habla sobre cierta arma, la cual creo que voy a terminar robando. Lleva todo el mundo detrás de esa arma, esa arma es demasiado peligrosa, yo no quiero que nadie utilice esa arma. Pueden desatar el caos y nadie sabe el peligro que correo el mundo de Énosis con esa arma y vosotros me vais a ayudar a encontrar esa arma."</font>
 
@@ -40,9 +41,9 @@ Dos rutas:
 Para recaudar información Tendrán las siguientes posibilidades:
 | Nombre evento  | Evento                                                                                                                                                                                                                                                                                                                        | Posibilidades                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Évida          | Évida resulta ser una buena informate que vive en esta ciudad, pero parace ser que para tener que encontrarla tienen que averiguar un acertijo: "En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre que buscas, en un lugar donde el tiempo no tiene edad."                                   | Si al final encuentran a la mujer, simplemente les cobrará por la información, si no tienen dinero no se lo dará. |
-| La bliblioteca | En la biblioteca  hay un libro de leyendas llamado "Diccionario de localizaciones banidosas" os llama la atencion y leis lo que pone                                                                                                                                                                                          |                                                                                                                   |
-| El bar         | Si van a una taverna y estan desesperados pueden intentar escuchar la conversacion de alguien "Pues hace nada se escaparon unos de una prision, y como te dije la semana pasada, dicen que Helios y Merioth se han ido de Kerman, seguro que van de nuevo hacia el norte, pasan cosas muy raras cuando se esapan prisioneros" |                                                                                                                   |
+| Évida          | Évida resulta ser una buena informate que vive en esta ciudad, pero parace ser que para tener que encontrarla tienen que averiguar un acertijo: <font color="#c3d69b">"En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre que buscas, en un lugar donde el tiempo no tiene edad."</font>                                   | Si al final encuentran a la mujer, simplemente les cobrará por la información, si no tienen dinero no se lo dará. |
+| La bliblioteca | En la biblioteca  hay un libro de leyendas llamado <font color="#0070c0">"Diccionario de localizaciones banidosas"</font> os llama la atencion y leis lo que pone                                                                                                                                                                                          |                                                                                                                   |
+| El bar         | Si van a una taverna y estan desesperados pueden intentar escuchar la conversacion de alguien <font color="#548dd4">"Pues hace nada se escaparon unos de una prision, y como te dije la semana pasada, dicen que Helios y Merioth se han ido de Kerman, seguro que van de nuevo hacia el norte, pasan cosas muy raras cuando se esapan prisioneros"</font> |                                                                                                                   |
 
 <center>De camino hacia le arbol</center>
 Sonido hipogrifo: https://www.youtube.com/watch?v=YPl5eL8_WjE
@@ -55,7 +56,7 @@ Sonido Camino:
 | Los guardias de Kerman         | Unos guardias que vienen de el gran arbol pregunta al grupo ¿de donde venís? ¿hacia donde vais y con que intenciones?                 | si no se pegarán y uno saldrá corriendo                                                                                                                    |
 
 <center>En el Arbol</center>
-En el arbol los reciben una tribu de Aasimar ellos les reciviran pero no se dentendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el arbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>.
+En el arbol los reciben una tribu de Aasimar ellos les reciviran pero no se dentendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el arbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>. Hay una gran escalera que sube arriba de uno de lo
 
 
 
