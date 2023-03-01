@@ -14,8 +14,7 @@ Se les hará entrega del "Documento_1" y "Documento_2. Zara dirá que pudo recog
 
 - <u>Zara no sabe qué les ha pasado ni por qué han sido encerrados.</u> Zara fue encerrada, cosa que nuca nadie habían conseguido, Le habían encerrado allí porque ella sabía como abrir y usar el arma primigenia de la que tanto habla todo el mundo.
 
-Fuego: https://www.youtube.com/watch?v=Qy6No_Ua4B8
-Ambiente: https://www.youtube.com/watch?v=QTj6EFaz1Es
+Fuego: https://www.youtube.com/watch?v=rvrmMwJd4Kc&list=PLbHUA-o_5dgLeqtrdc4Ec2W7Q4mhAb3A0&index=12
 
 Zara invitará a acomodarse en la guarida mientras van concretando los planes.
 
@@ -38,6 +37,9 @@ Dos rutas:
 - Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un laboratorio en una de las<u> islas flotantes de Vrachos</u>.
 ---
 ### <center>En la ciudad</center>
+Ciudad:
+
+
 Para recaudar información Tendrán las siguientes posibilidades:
 | Nombre evento  | Evento                                                                                                                                                                                                                                                                                                                        | Posibilidades                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
