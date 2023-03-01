@@ -64,7 +64,8 @@ Por si acampan por la noche: https://www.youtube.com/watch?v=imxILmKjjCQ&list=PL
 | Los guardias de Kerman         | Unos guardias que vienen de el gran arbol pregunta al grupo ¿de donde venís? ¿hacia donde vais y con que intenciones?                 | si no se pegarán y uno saldrá corriendo                                                                                                                    |
 
 <center>En el Arbol</center>
-Sonido ambiente: 
+Sonido ambiente: https://www.youtube.com/watch?v=DO26ygk7rcU
+
 En el arbol los reciben una tribu de Aasimar ellos les reciviran pero no se dentendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el arbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>. 
 
 si se pegan: https://5e.tools/bestiary.html#battleforce%20angel_ggr
