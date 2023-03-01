@@ -80,10 +80,14 @@ Hay una gran escalera que sube arriba de uno de los montículos de piedra, y hay
 Sonido de fondo: https://www.youtube.com/watch?v=YRXCh3oIdX4
 
 Ellos encontrarán una especie de pequeño laboratorio, con varios guardas; Esta parte Pura improvisación.
+se os presenta un escenario mistico. Todo esta teñido de una mistica niebla morada, la tierra que piesais es de un color negruzco. El espacio que os rodea es completamente amplio, aunque parece reso
+
+
+Antes de que podáis iros, una gran mano rompe el portal con su enorme mano. Y comeinza el combate
 
 2 de protegen la entrada: https://5e.tools/bestiary.html#quaggoth_mm
 Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
-battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
+Battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
 
 
