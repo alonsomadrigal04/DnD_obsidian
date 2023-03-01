@@ -55,7 +55,7 @@ Sonido Camino:
 | Los guardias de Kerman         | Unos guardias que vienen de el gran arbol pregunta al grupo ¿de donde venís? ¿hacia donde vais y con que intenciones?                 | si no se pegarán y uno saldrá corriendo                                                                                                                    |
 
 <center>En el Arbol</center>
-En el arbol los reciben una tribu de 
+En el arbol los reciben una tribu de Aasimar protectors
 
 
 
