@@ -39,6 +39,8 @@ Dos rutas:
 ### <center>En la ciudad</center>
 Ciudad:https://www.youtube.com/watch?v=WJrqwa6tMQY&list=PLbHUA-o_5dgI94CsSE2THjXF2DsXWqf5H&index=1
 Biblioteca: https://www.youtube.com/watch?v=VvC12NAf-Cw
+Évida zone: https://www.youtube.com/watch?v=Ag8sbpNXBEQ&list=PLbHUA-o_5dgI94CsSE2THjXF2DsXWqf5H&index=12
+
 
 
 Para recaudar información Tendrán las siguientes posibilidades:
