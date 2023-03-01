@@ -73,6 +73,8 @@ si se pegan: https://5e.tools/bestiary.html#battleforce%20angel_ggr
 
 Hay una gran escalera que sube arriba de uno de los montículos de piedra, y hay un portal en medio de una pequeña llanura.
 
+<center>Atraviesan el protal</center>
+Sonido de fondo: https://www.youtube.com/watch?v=YRXCh3oIdX4
 
 
 
