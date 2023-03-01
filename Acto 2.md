@@ -52,7 +52,10 @@ Para recaudar información Tendrán las siguientes posibilidades:
 
 <center>De camino hacia le arbol</center>
 Sonido hipogrifo: https://www.youtube.com/watch?v=YPl5eL8_WjE
-Sonido Camino: 
+Sonido Camino: https://www.youtube.com/watch?v=J4yp3l0EZPQ&list=PLbHUA-o_5dgIce7_gcpeUCsloxMxhh3a_&index=8
+Por si acampan por la noche: https://www.youtube.com/watch?v=imxILmKjjCQ&list=PLbHUA-o_5dgIce7_gcpeUCsloxMxhh3a_&index=11
+
+
 | Nombre del evento              | evento                                                                                                                                | Posibilidad                                                                                                                                                |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | El noble y el pobre            | Un noble ha retado en duelo a un señor. Por que ha auyentado a su caballo y es muy seguro que el pobre muera                          | El noble da 20 de oro a cambio de simplemente pasar de ellos, pero si no, podrán pegarle una buena paliza. si se salvan al señor pobre recibirán 25 de oro |
