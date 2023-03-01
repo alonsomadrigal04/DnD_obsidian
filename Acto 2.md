@@ -79,6 +79,10 @@ Hay una gran escalera que sube arriba de uno de los montículos de piedra, y hay
 <center>Atraviesan el protal</center>
 Sonido de fondo: https://www.youtube.com/watch?v=YRXCh3oIdX4
 
+Ellos encontrarán una especie de pequeño laboratorio, con varios guardas; Esta parte Pura improvisación.
+
+2 de protegen la entrada: https://5e.tools/bestiary.html#quaggoth_mm
+Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
 
 
 
