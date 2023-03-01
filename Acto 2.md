@@ -83,7 +83,7 @@ Ellos encontrarán una especie de pequeño laboratorio, con varios guardas; Esta
 
 2 de protegen la entrada: https://5e.tools/bestiary.html#quaggoth_mm
 Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
-
+battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
 
 
