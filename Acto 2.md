@@ -37,7 +37,8 @@ Dos rutas:
 - Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un laboratorio en una de las<u> islas flotantes de Vrachos</u>.
 ---
 ### <center>En la ciudad</center>
-Ciudad:
+Ciudad:https://www.youtube.com/watch?v=WJrqwa6tMQY&list=PLbHUA-o_5dgI94CsSE2THjXF2DsXWqf5H&index=1
+Biblioteca: https://www.youtube.com/watch?v=VvC12NAf-Cw
 
 
 Para recaudar información Tendrán las siguientes posibilidades:
