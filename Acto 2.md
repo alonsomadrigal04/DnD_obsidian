@@ -48,6 +48,7 @@ Para recaudar información Tendrán las siguientes posibilidades:
 | Nombre del evento   | evento                                                                                                       | Posibilidad                                                                                                                                                |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | El noble y el pobre | Un noble ha retado en duelo a un señor. Por que ha auyentado a su caballo y es muy seguro que el pobre muera | El noble da 20 de oro a cambio de simplemente pasar de ellos, pero si no, podrán pegarle una buena paliza. si se salvan al señor pobre recibirán 25 de oro |
+| Un grifo Herido     | escuchan un ruido de animal herido en la lejania                                                             | Pueden ayudarlo, aunque esto será dificil por que  cada vez que se acerca alguien el hipogrifo se vuelve agresivo                                          |
 |                     |                                                                                                              |                                                                                                                                                            |
 
 
