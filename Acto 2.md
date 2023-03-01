@@ -34,9 +34,14 @@ Dos rutas:
 
 <font color="#0070c0">"Os cambiaré el aspecto, por un tiempo, no sé cuanto aguantará, no he practicado mucho este hechizo. Os dejaré en la ciudad para que país ir recolectando información, a ver si encontráis más información sobre vuestras memorias"</font>
 
-- Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un laboratorio en una de las<u> islas flotantes de Vrachos</u>. 
+- Les llevará al norte de Polemos en territorio Erikel/Kerman. Las memorias están resguardadas en un laboratorio en una de las<u> islas flotantes de Vrachos</u>.
+---
 ### <center>En la ciudad</center>
-
+Para recaudar información Tendrán las siguientes posibilidades:
+| Nombre evento | Evento                                                                                                                                         | Posibilidades |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Évida         | Évida resulta ser una buena informate que vive en esta ciudad, pero parace ser que para tener que encontrarla tienen que averiguar un acertijo |               |
+|               |                                                                                                                                                |               |
 
 
 
