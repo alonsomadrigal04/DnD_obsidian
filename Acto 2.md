@@ -45,10 +45,10 @@ Para recaudar información Tendrán las siguientes posibilidades:
 | El bar         | Si van a una taverna y estan desesperados pueden intentar escuchar la conversacion de alguien "Pues hace nada se escaparon unos de una prision, y como te dije la semana pasada, dicen que Helios y Merioth se han ido de Kerman, seguro que van de nuevo hacia el norte, pasan cosas muy raras cuando se esapan prisioneros" |                                                                                                                   |
 
 <center>De camino hacia le arbol</center>
-| Nombre del evento   | evento                                                                                                       | Posibilidad |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ | ----------- |
-| El noble y el pobre | Un noble ha retado en duelo a un señor. Por que ha auyentado a su caballo y es muy seguro que el pobre muera |        El noble da 20 de oro a cambio de salvar al      |
-|                     |                                                                                                              |             |
+| Nombre del evento   | evento                                                                                                       | Posibilidad                                                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| El noble y el pobre | Un noble ha retado en duelo a un señor. Por que ha auyentado a su caballo y es muy seguro que el pobre muera | El noble da 20 de oro a cambio de simplemente pasar de ellos, pero si no, podrán pegarle una buena paliza. si se salvan al señor pobre recibirán 25 de oro |
+|                     |                                                                                                              |                                                                                                                                                            |
 
 
 
