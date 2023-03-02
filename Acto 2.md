@@ -24,7 +24,7 @@ Zara dice:  <font color="#0070c0">"Bueno, después de haber leído los documento
 
 <font color="#0070c0">"Ahora bien, os doy dos opciones, sé cuan de desesperado, puede ser no acordarse de nada de lo que has hecho en mucho tiempo... Podemos intentar encontrar vuestras memorias o podríamos adelantarnos antes de que llegue alguien e ir directamente a por el arma"</font>
 
-Dos rutas:
+· Dos rutas:
 - Las mentes perdidas
 - El arma legendaria
 ---
