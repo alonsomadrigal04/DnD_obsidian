@@ -25,7 +25,7 @@ Las casas tienen su propia jerarquia;
 · Para que un libro sea leído:
 - Para leer un libro tienes que tachar 4 casillas
 - Cuando te dispones a leer un libro, has de tirar un dado de WISDOM;
-- 1-13; una casilla. 14- 18: dos casillas  19:20
+- 1-13; una casilla. 14- 18: dos casillas  19-20; tres casillas.
 
 ### **Países**
 **Dynami**
