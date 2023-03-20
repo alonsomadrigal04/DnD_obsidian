@@ -21,6 +21,9 @@ Las casas tienen su propia jerarquia;
 | Tercera corona | Luru, Menister (V) |
 | Casas menores  | Kerman (V)         |
 
+### Libros
+· Para que un libro sea leído:
+- Cuando te dispones a leer un libro, has de tirar un dado de WISDOM, 
 
 ### **Países**
 **Dynami**
