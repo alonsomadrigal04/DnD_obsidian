@@ -80,7 +80,7 @@ Hay una gran escalera que sube arriba de uno de los montículos de piedra, y hay
 Sonido de fondo: https://www.youtube.com/watch?v=YRXCh3oIdX4
 
 Ellos encontrarán una especie de pequeño laboratorio, con varios guardas; Esta parte Pura improvisación.
-2 de protegen la entrada: https://5e.tools/bestiary.html#quaggoth_mm
+2 de protegen la entrada: https://5e.tools/bestiary.html#black%20earth%20priest_pota
 <font color="#548dd4">se os presenta un escenario mistico. Todo esta teñido de una mistica niebla morada, la tierra que piesais es de un color negruzco. El espacio que os rodea es completamente amplio, aunque parece que se precipite al vacio relativamente pronto. El escenario a cambiado por completo. Lo unico que podeis ver a la distancia es el gran arbol que se os presentaba antes. Parecido, solamente que las luces que rodeaban al arbol son mucho mas potentes. Solo hay un edificio en todo el lugar, cera de un precipicio.</font>
 
 
