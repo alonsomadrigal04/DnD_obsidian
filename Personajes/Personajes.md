@@ -1,11 +1,11 @@
 Aliados:
 - [[Zarathustra or Thurd, la Rompeleyendas]]
-- Kim
+- {[[Kim de Luru]]}
 Neutrales: 
-- Luna 
+- [[Luna ]]
 Enemigos:
 - [[Helios de Erikel]]
-- Merioth
-- Guinder
+- [[Merioth]]
+- [[Guinder]]
 
 
