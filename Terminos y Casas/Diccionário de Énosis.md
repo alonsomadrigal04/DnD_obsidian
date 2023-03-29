@@ -27,14 +27,4 @@ Las casas tienen su propia jerarquia;
 - Cuando te dispones a leer un libro, has de tirar un dado de WISDOM;
 - 1-13; una casilla. 14- 18: dos casillas  19-20; tres casillas.
 
-### **Países**
-**Dynami**
-	Casas; 
-**Varys**
-**Ektós**
-**Pólemos**
-	Casas;
-		
-**Athoós**
-**Sfyrí**
-**Tromos**
+### Casas
