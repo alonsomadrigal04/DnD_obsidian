@@ -28,3 +28,7 @@ Las casas tienen su propia jerarquia;
 - 1-13; una casilla. 14- 18: dos casillas  19-20; tres casillas.
 
 ### Casas
+Polemos
+	- [[Ventur]]
+	- [[Erikel]]
+	- [[Kerman]]
