@@ -95,7 +95,7 @@ Lee esto cuando salgan del portal:
 
 <font color="#00b0f0">Corréis por la escalera mientras escucháis el estruendo detrás de vosotros. Las piedras y el polvo caen a vuestro alrededor mientras tratáis de mantener el equilibrio en la escalera temblorosa. De repente, uno de los soldados os alcanza y comienza a luchar contra vosotros. El combate es intenso mientras seguís corriendo hacia abajo."</font>
 
-
+No ha soldados hay mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
 
 
 
