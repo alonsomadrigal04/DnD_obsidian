@@ -84,14 +84,16 @@ Ellos encontrarán una especie de pequeño laboratorio, con varios guardas; Esta
 <font color="#548dd4">se os presenta un escenario mistico. Todo esta teñido de una mistica niebla morada, la tierra que piesais es de un color negruzco. El espacio que os rodea es completamente amplio, aunque parece que se precipite al vacio relativamente pronto. El escenario a cambiado por completo. Lo unico que podeis ver a la distancia es el gran arbol que se os presentaba antes. Parecido, solamente que las luces que rodeaban al arbol son mucho mas potentes. Solo hay un edificio en todo el lugar, cera de un precipicio.</font>
 
 
-Antes de que podáis iros, una gran mano rompe el portal con su enorme mano. Comienzanza el combate
+Antes de que podáis iros, una gran mano rompe el portal con su enorme mano. Comienzan za el combate
 
 
 Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
 Battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
 Lee esto cuando salgan del portal: 
-"Con la libertad de tener vuestros recuerdos y la satisfacción de haber huido de un lugar tan misterioso., la salida al portal os perturba, en vez de haberos recibido una poderosa satisfacción, " 
+"Con la libertad de tener vuestros recuerdos y la satisfacción de haber huido de un lugar tan misterioso., la salida al portal os perturba, en vez de haberos recibido una poderosa satisfacción, varias figuras os acechan y os encontráis como si estuvierais en el mismo lugar de la entrada pero más antiguo
+
+No sabéis cuanto tiempo ha pasado desde que estáis dentro del portal, pero toda la breza y la hierva a comenzado a carcomerse todos los resquicios de los alrededores. Incluso las piedras del poral han parecido comenzar " 
 No hay soldados hay mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
 
 
