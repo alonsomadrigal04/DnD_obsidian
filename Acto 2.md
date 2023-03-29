@@ -91,10 +91,13 @@ Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
 Battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
 Lee esto cuando salgan del portal: 
-"Con la libertad de tener vuestros recuerdos y la satisfacción de haber huido de un lugar tan misterioso., la salida al portal os perturba, en vez de haberos recibido una poderosa satisfacción, varias figuras os acechan y os encontráis como si estuvierais en el mismo lugar de la entrada pero más antiguo
+<font color="#00b0f0">"Con la libertad de tener vuestros recuerdos y la satisfacción de haber huido de un lugar tan misterioso., la salida al portal os perturba, en vez de haberos recibido una poderosa satisfacción, varias figuras os acechan y os encontráis como si estuvierais en el mismo lugar de la entrada pero más antiguo</font>
 
-No sabéis cuanto tiempo ha pasado desde que estáis dentro del portal, pero toda la breza y la hierva a comenzado a carcomerse todos los resquicios de los alrededores. Incluso las piedras del poral han parecido comenzar " 
-No hay soldados hay mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
+<font color="#00b0f0">No sabéis cuanto tiempo ha pasado desde que estáis dentro del portal, pero toda la breza y la hierva ha comenzado a carcomerse todos los resquicios de los alrededores. Incluso las piedras del poral han parecido comenzar a llenarse de musgo por todos lados" </font>
+
+mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
+
+La vista de los jugadores estaba modificada por él exterior, los basiliskos  
 
 
 
