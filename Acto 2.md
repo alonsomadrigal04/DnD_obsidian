@@ -91,7 +91,9 @@ Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
 Battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
 Lee esto cuando salgan del portal: 
+<font color="#00b0f0">"Salís del portal con vuestras memorias recuperadas, pero el ambiente se siente tenso y cargado. Os dais cuenta de que alguien os busca, y pronto descubrís que son soldados de la casa Kerman. Justo en ese momento, la isla comienza a temblar y a desmoronarse. Rápidamente os dais cuenta de que la única forma de escapar es por una escalera muy larga que conduce a la base de la isla.</font>
 
+<font color="#00b0f0">Corréis por la escalera mientras escucháis el estruendo detrás de vosotros. Las piedras y el polvo caen a vuestro alrededor mientras tratáis de mantener el equilibrio en la escalera temblorosa. De repente, uno de los soldados os alcanza y comienza a luchar contra vosotros. El combate es intenso mientras seguís corriendo hacia abajo."</font>
 
 
 
