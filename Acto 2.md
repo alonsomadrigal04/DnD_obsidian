@@ -90,7 +90,8 @@ Antes de que podáis iros, una gran mano rompe el portal con su enorme mano. Com
 Enemigo: https://5e.tools/bestiary.html#yestabrod_oota
 Battle theme: https://www.youtube.com/watch?v=53Esa46EKDU&list=PLbHUA-o_5dgKIcvpPs10ftV9AdaV_hNN1&index=2
 
-Lee esto cuando salgan del portal:
+Lee esto cuando salgan del portal: 
+
 
 
 
