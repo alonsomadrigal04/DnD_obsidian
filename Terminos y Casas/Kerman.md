@@ -3,5 +3,5 @@
 - País:
 - Lore:
 - Personajes importantes: 
-	- [[Merioth]], es el guerrero por escelencia en Kerman, es el guarda principal de [[Haspes]] lider principal de la casa , 
+	- [[Merioth]], es el guerrero por excelencia en Kerman, es el guarda principal de [[Haspes]] lider principal de la casa Kerman. Merioth tiene un aspeto
 - Relaciones con las demás casas:
