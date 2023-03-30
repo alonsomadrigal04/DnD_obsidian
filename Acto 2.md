@@ -103,24 +103,21 @@ Zara, les enseñará un papel que le han otorgado y les dirá que tienen que par
 
 ## El faro
 ---
-El faro donde los personajes comienzan la aventura está atendido por un oficial retirado llamado Mayor Ursa. El comandante (un veterano humano de raza LG) es un hombre enorme, con una barba roja brillante y una tira de pelo gris rojizo en su calva cabeza. Su atuendo habitual es una llamativa falda escocesa roja y amarilla con su martillo de guerra y su daga colgando de un ancho cinturón de cuero.
+El faro donde los personajes comienzan la aventura está atendido por un oficial retirado llamado <font color="#00b0f0">Mayor Ursa</font>. El comandante (un veterano humano de raza LG) es un hombre enorme, con una barba roja brillante y una tira de pelo gris rojizo en su calva cabeza. Su atuendo habitual es una llamativa falda escocesa roja y amarilla con su martillo de guerra y su daga colgando de un ancho cinturón de cuero.
 
 En la actualidad, el comandante vive y disfruta de la solitaria vida de un farero. Es un miembro respetado del gremio de marineros. Si el comandante es atacado por el grupo, los ciudadanos locales se unen en su defensa. El gremio de marineros no tarda en poner una recompensa por el grupo, y los aventureros se convierten en criminales perseguidos. El comandante no tiene el dinero de la recompensa del gremio ni nada de valor (aparte de comida, bebida y equipo náutico) en el faro.
 
+### Lo que sabe
 ---
-El Mayor Ursa no es un mercenario y no se unirá espontáneamente al grupo. Acompaña a los personajes sólo si han hecho al menos un intento de desembarcar en la isla. Permanece en su barco, negándose a participar en el combate pero dispuesto a observar y ofrecer consejo.
-
-Lo que sabe
-p98
-[-]
+El <font color="#00b0f0">Mayor Ursa</font> no es un mercenario y no se unirá espontáneamente al grupo. Acompaña a los personajes sólo si han hecho al menos un intento de desembarcar en la isla. Permanece en su barco, negándose a participar en el combate pero dispuesto a observar y ofrecer consejo.
 El Mayor Ursa, como miembro del gremio de marineros, está interesado en el éxito del grupo. Ofrece la siguiente información libremente:
 
 "El único lugar seguro para desembarcar en la pequeña isla rocosa y rodeada de arrecifes es una gran playa de arena conocida como las Dunas de la Calavera. Las dunas están llenas de muertos vivientes, porque los clérigos de la abadía crearon un ejército de esqueletos para vigilar la playa. Los esqueletos yacen bajo la arena y atacan a cualquiera que se acerque".
+
 "Los piratas llegaron a tierra de alguna manera. Probablemente haya un camino a través de los no muertos, pero encontrarlo es el problema. No alcanzamos a los piratas hasta que abandonaron la isla. Habían tomado tanto como habían dado. Eran un grupo miserable y lamentable cuando atacamos y derrotamos lo que quedaba de ellos. Un barco escapó, pero hundimos los demás. El mar y los tiburones se llevaron a los supervivientes, así que nunca supimos de primera mano lo que pasó en la isla ni cómo los piratas atravesaron las dunas".
-"En cuanto a la abadía, ¿quién lo sabe con seguridad? Nunca llegamos a acercarnos al lugar. Salió humo de la isla durante días después del ataque de los piratas. Tal vez eso significa que la isla ha sido abandonada, o tal vez la abadía se quemó y los clérigos están esperando para reconstruirla. No lo sé. Para eso te han contratado".
+
+"En cuanto a la abadía, ¿quién lo sabe con seguridad? Nunca llegamos a acercarnos al lugar. Salió humo de la isla durante días después del ataque de los piratas. Tal vez eso significa que la isla ha sido abandonada, o tal vez la abadía se quemó y la c están esperando para reconstruirla. No lo sé. Para eso te han contratado".
 Lo que podría saber
-p99
-[-]
 El Mayor Ursa sirve de conducto cuando quieres dar información a los jugadores, sobre todo si se retiran de las Dunas Calavera y vuelven al faro. El mayor puede ofrecer sugerencias y ocasionalmente pistas útiles. Estos consejos no deben darse a petición, y el comandante puede no tener consejos sobre todos los temas. Las sugerencias del comandante sobre la situación táctica en la isla dependen de la información que el grupo le proporcione sobre la isla, sus habitantes y sus trampas y monstruos.
 
 Por ejemplo, preguntas como "¿Cómo atravesamos los túneles bajo las ruinas?" son inapropiadas porque el comandante no tiene forma de conocer los túneles bajo la abadía. El grupo debe describir primero los túneles (ver "El camino sinuoso") y la situación allí antes de que el mayor pueda ayudarles.
