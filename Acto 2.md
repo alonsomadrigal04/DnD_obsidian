@@ -99,7 +99,14 @@ mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
 
 La vista de los jugadores estaba modificada por él exterior, los basiliskos eran solo imaginarios,, estaban afectados por un efecto ilusorio. Los basiliskos no eran reales ni como la isla caia. Zara volverá y los recogerá con su Kindori.
 
-Zara, les enseñará un papel que le han otorgado y les dirá que
+Zara, les enseñará un papel que le han otorgado y les dirá que tienen que partir ya en barco por quéno pueden llegar en Kindori. 
+
+## El faro
+---
+El faro donde los personajes comienzan la aventura está atendido por un oficial retirado llamado Mayor Ursa. El comandante (un veterano humano de raza LG) es un hombre enorme, con una barba roja brillante y una tira de pelo gris rojizo en su calva cabeza. Su atuendo habitual es una llamativa falda escocesa roja y amarilla con su martillo de guerra y su daga colgando de un ancho cinturón de cuero.
+
+En la actualidad, el comandante vive y disfruta de la solitaria vida de un farero. Es un miembro respetado del gremio de marineros. Si el comandante es atacado por el grupo, los ciudadanos locales se unen en su defensa. El gremio de marineros no tarda en poner una recompensa por el grupo, y los aventureros se convierten en criminales perseguidos. El comandante no tiene el dinero de la recompensa del gremio ni nada de valor (aparte de comida, bebida y equipo náutico) en el faro.
+
 
 
 
