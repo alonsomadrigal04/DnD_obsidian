@@ -67,7 +67,7 @@ Por si acampan por la noche: https://www.youtube.com/watch?v=imxILmKjjCQ&list=PL
 Sonido ambiente: https://www.youtube.com/watch?v=DO26ygk7rcU
 Musica ambiente: https://www.youtube.com/watch?v=fA8j3wOVzcw
 
-En el arbol los reciben una tribu de Aasimar ellos les reciviran pero no se dentendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el arbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>. 
+En el árbol los reciben una tribu de Aasimar ellos les recibirán pero no se detendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el árbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>. 
 
 sí se pegan: https://5e.tools/bestiary.html#battleforce%20angel_ggr
 https://5e.tools/bestiary.html#celestial%20spirit_tce
