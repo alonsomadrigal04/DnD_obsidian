@@ -69,7 +69,7 @@ Musica ambiente: https://www.youtube.com/watch?v=fA8j3wOVzcw
 
 En el arbol los reciben una tribu de Aasimar ellos les reciviran pero no se dentendrán mucho, no quieren que se quede gente de fuera. Los Aasimar saben algo sobre el arbol, <u>como que se alimenta de recuerdos, pero son muy recelosos y no lo contarán a la ligera</u>. 
 
-si se pegan: https://5e.tools/bestiary.html#battleforce%20angel_ggr
+sí se pegan: https://5e.tools/bestiary.html#battleforce%20angel_ggr
 https://5e.tools/bestiary.html#celestial%20spirit_tce
 
 <u>DESCRIBE BIEN EL LUGAR: </u> <font color="#548dd4">"Arboles, rojos, rosas decoran el largo del camino algo abrupto, pero con un aspecto algo mágico por una especie de neblina rosa que surge del ambiente. Tambein podeis ver como hay pequeños destellos amarillos que iluminan las peuqeñas zonas ahora rosas por la bruma. Las casas decoradas con un sencillo color blanquecino, son muy escasas, pero se respira una bocanda de paz y tranquilidad que os envuelve, no sabeis si se trata de un hechizo o simplemente el ambiene. Pero os da bastante igual pues estais completamente inmergidos en el ambiente.""</font>
