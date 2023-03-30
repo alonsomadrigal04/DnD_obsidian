@@ -1,1 +1,2 @@
-Meioth (Medium Aasimar), 
+Meioth (Medium Aasimar). Oculta de quien es descendiente, pero siempre suele decir que es descendiente del dios <u>Oghma</u>. Esto es falso, es heredero de <u>Malyk</u>, Dios del caos. Malyk tiene un plan preparado para Merioth, este sigue sus ordenes. 
+Actualemnte es protector de [[Helios de Erikel]], siendo su principla guarda, llevando mas de 12 años en su servicio. Helios sabe que es temperamen
