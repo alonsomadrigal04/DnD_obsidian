@@ -99,6 +99,8 @@ mini basiliskos: https://5e.tools/bestiary.html#young%20basilisk_oota
 
 La vista de los jugadores estaba modificada por él exterior, los basiliskos eran solo imaginarios,, estaban afectados por un efecto ilusorio. Los basiliskos no eran reales ni como la isla caia. Zara volverá y los recogerá con su Kindori.
 
+Zara, les enseñará un papel que le han otorgado y les dirá que
+
 
 
 

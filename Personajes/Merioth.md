@@ -3,4 +3,5 @@ Meioth (Medium Aasimar). Oculta de quien es descendiente, pero siempre suele dec
 Actualmente, es protector de [[Helios de Erikel]], siendo su principal guarda, llevando más de 12 años en su servicio. Helios sabe que es temperamental y tienen algunos momentos que no puede comprender que está diciendo, pero se fía de él.
 
 - **Personality traits:** Leal y de pocas palabras, siempre sabe qué hacer en as situaciones más absortas y tensas. Buen general, pero muy distante con todo el mundo.
-- **Ideals:** La gente busca su propio
+- **Ideals:** La gente busca su propio destino. Solo ayudará a aquellos que Malyk considerá oportuno
+- **Flwas**: Demasiado solitario para trabajar con el.
