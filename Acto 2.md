@@ -120,11 +120,16 @@ El Mayor Ursa, como miembro del gremio de marineros, está interesado en el éxi
 
 ## Lo que podría saber
 ---
-El Mayor Ursa sirve de conducto cuando quieres dar información a los jugadores, sobre todo si se retiran de las Dunas Calavera y vuelven al faro. El mayor puede ofrecer sugerencias y ocasionalmente pistas útiles. Estos consejos no deben darse a petición, y el comandante puede no tener consejos sobre todos los temas. Las sugerencias del comandante sobre la situación táctica en la isla dependen de la información que el grupo le proporcione sobre la isla, sus habitantes y sus trampas y monstruos.
+El <font color="#00b0f0">Mayor Ursa</font> sirve de conducto cuando quieres dar información a los jugadores, sobre todo si se retiran de las Dunas Calavera y vuelven al faro. El mayor puede ofrecer sugerencias y ocasionalmente pistas útiles. Estos consejos no deben darse a petición, y el comandante puede no tener consejos sobre todos los temas. Las sugerencias del comandante sobre la situación táctica en la isla dependen de la información que el grupo le proporcione sobre la isla, sus habitantes y sus trampas y monstruos.
 
-Por ejemplo, preguntas como "¿Cómo atravesamos los túneles bajo las ruinas?" son inapropiadas porque el comandante no tiene forma de conocer los túneles bajo la abadía. El grupo debe describir primero los túneles (ver "El camino sinuoso") y la situación allí antes de que el mayor pueda ayudarles.
+Por ejemplo, preguntas como "¿Cómo atravesamos los túneles bajo las ruinas?", son inapropiadas porque el comandante no tiene forma de conocer los túneles bajo la abadía. El grupo debe describir primero los túneles (ver "El camino sinuoso") y la situación allí antes de que el mayor pueda ayudarles.
 
-### Leer para tener ma
+### Leer para tener más información
+---
+La isla es poco más que una losa de roca que se eleva desde el océano. El mar ha azotado sus desmoronados acantilados de modo que casi toda la isla está rodeada de peligrosos bajíos rocosos. Las olas rompiendo y salpicando sobre las rocas irregulares hacen evidente, incluso para los marineros de agua dulce, que cualquier intento de navegar por los bajíos solo puede terminar en un desastre.
+
+De hecho, no hay razón para pasar a través de las peligrosas rocas, porque los acantilados de granito más allá se elevan directamente del agua, sin ofrecer ningún lugar para aterrizar o llegar a tierra. Solo el área arenosa en el extremo sur de la isla ofrece un lugar seguro para aterrizar un bote (ver "Las Dunas Calavera").
+
 
 
 
