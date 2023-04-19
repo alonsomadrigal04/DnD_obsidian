@@ -130,6 +130,9 @@ La isla es poco más que una losa de roca que se eleva desde el océano. El mar
 
 De hecho, no hay razón para pasar a través de las peligrosas rocas, porque los acantilados de granito más allá se elevan directamente del agua, sin ofrecer ningún lugar para aterrizar o llegar a tierra. Solo el área arenosa en el extremo sur de la isla ofrece un lugar seguro para aterrizar un bote (ver "Las Dunas Calavera").
 
+## Camino de esqueletos
+---
+
 
 
 
