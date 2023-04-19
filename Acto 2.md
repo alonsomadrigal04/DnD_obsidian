@@ -112,16 +112,19 @@ En la actualidad, el comandante vive y disfruta de la solitaria vida de un farer
 El <font color="#00b0f0">Mayor Ursa</font> no es un mercenario y no se unirá espontáneamente al grupo. Acompaña a los personajes sólo si han hecho al menos un intento de desembarcar en la isla. Permanece en su barco, negándose a participar en el combate pero dispuesto a observar y ofrecer consejo.
 El Mayor Ursa, como miembro del gremio de marineros, está interesado en el éxito del grupo. Ofrece la siguiente información libremente:
 
-"El único lugar seguro para desembarcar en la pequeña isla rocosa y rodeada de arrecifes es una gran playa de arena conocida como las Dunas de la Calavera. Las dunas están llenas de muertos vivientes, porque los clérigos de la abadía crearon un ejército de esqueletos para vigilar la playa. Los esqueletos yacen bajo la arena y atacan a cualquiera que se acerque".
+<font color="#92cddc">"El único lugar seguro para desembarcar en la pequeña isla rocosa y rodeada de arrecifes es una gran playa de arena conocida como las Dunas de la Calavera. Las dunas están llenas de muertos vivientes, porque los clérigos de la abadía crearon un ejército de esqueletos para vigilar la playa. Los esqueletos yacen bajo la arena y atacan a cualquiera que se acerque".</font>
 
-"Los piratas llegaron a tierra de alguna manera. Probablemente, haya un camino a través de los no muertos, pero encontrarlo es el problema. No alcanzamos a los piratas hasta que abandonaron la isla. Habían tomado tanto como habían dado. Eran un grupo miserable y lamentable cuando atacamos y derrotamos lo que quedaba de ellos. Un barco escapó, pero hundimos los demás. El mar y los tiburones se llevaron a los supervivientes, así que nunca supimos de primera mano lo que pasó en la isla ni cómo los piratas atravesaron las dunas".
+<font color="#92cddc">"Los piratas llegaron a tierra de alguna manera. Probablemente, haya un camino a través de los no muertos, pero encontrarlo es el problema. No alcanzamos a los piratas hasta que abandonaron la isla. Habían tomado tanto como habían dado. Eran un grupo miserable y lamentable cuando atacamos y derrotamos lo que quedaba de ellos. Un barco escapó, pero hundimos los demás. El mar y los tiburones se llevaron a los supervivientes, así que nunca supimos de primera mano lo que pasó en la isla ni cómo los piratas atravesaron las dunas".</font>
 
 "En cuanto a la abadía, ¿quién lo sabe con seguridad? Nunca llegamos a acercarnos al lugar. Salió humo de la isla durante días después del ataque de los piratas. Tal vez eso significa que la isla ha sido abandonada, o tal vez la abadía se quemó y la casa <font color="#00b0f0">Erikel</font> están esperando para reconstruirla. No lo sé. Para eso te han contratado".
-Lo que podría saber
+
+## Lo que podría saber
+---
 El Mayor Ursa sirve de conducto cuando quieres dar información a los jugadores, sobre todo si se retiran de las Dunas Calavera y vuelven al faro. El mayor puede ofrecer sugerencias y ocasionalmente pistas útiles. Estos consejos no deben darse a petición, y el comandante puede no tener consejos sobre todos los temas. Las sugerencias del comandante sobre la situación táctica en la isla dependen de la información que el grupo le proporcione sobre la isla, sus habitantes y sus trampas y monstruos.
 
 Por ejemplo, preguntas como "¿Cómo atravesamos los túneles bajo las ruinas?" son inapropiadas porque el comandante no tiene forma de conocer los túneles bajo la abadía. El grupo debe describir primero los túneles (ver "El camino sinuoso") y la situación allí antes de que el mayor pueda ayudarles.
 
+### Leer para tener ma
 
 
 
