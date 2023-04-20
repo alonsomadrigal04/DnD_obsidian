@@ -132,7 +132,9 @@ De hecho, no hay razón para pasar a través de las peligrosas rocas, porque los
 
 ## Camino de esqueletos
 ---
-
+| 1d6 | eventos |     |
+| --- | ------- | 
+|     |         |    
 
 
 
