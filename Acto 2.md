@@ -132,9 +132,18 @@ De hecho, no hay razón para pasar a través de las peligrosas rocas, porque los
 
 ## Camino de esqueletos
 ---
-| 1d6 | eventos |     |
-| --- | ------- | 
-|     |         |    
+![[dunas.png]]
+Ya sabes como funciona: 
+| 1d6 | eventos                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tres [mantícoras](https://5e.tools/bestiary.html#manticore_mm) que anidan en una costa cercana se abalanzan para atacar. Usan los esqueletos para ayudar a acabar con las presas terrestres al aterrizar en un cuadrado infestado de ellos y luego volar cuando emergen.                                                                                                                                                                          |
+| 2   | La oleada de energía nigromántica provocada por el despertar de los esqueletos atrae a 4d10 [zombis](https://5e.tools/bestiary.html#zombie_mm) de piratas asesinados fuera de las aguas y hacia la playa.                                                                                                                                                                                                                                         |
+| 3   | 3d6 [enjambres de bromistas](https://5e.tools/bestiary.html#swarm%20of%20quippers_mm) infestan las aguas alrededor de la isla. Después de darse un festín con los que cayeron durante la batalla, están ansiosos por más carne fresca                                                                                                                                                                                                             |
+| 4   | ¡Se levanta una tormenta repentina! La repentina lluvia torrencial hace que surjan [esqueletos en tres cuadrados aleatorios.](https://5e.tools/bestiary.html#skeleton_mm)                                                                                                                                                                                                                                                                         |
+| 5   | Un pirata, Knife-Catcher Skeen (NE hombre [bandido](https://5e.tools/bestiary.html#bandit_mm) humano ), se ha escondido en una plaza despejada en las dunas. Dado por muerto por sus camaradas, pide ayuda a los personajes.                                                                                                                                                                                                                      |
+| 6   | Un [barco de quilla](https://5e.tools/vehicles.html#keelboat_gos) con una tripulación completa y que transporta a cinco cazadores de tesoros rivales (LE humanos [veteranos](https://5e.tools/bestiary.html#veteran_mm) ) llega a la isla. El grupo exploró la playa antes y ahora planea atraer a los esqueletos fuera de las dunas y matarlos con ataques a distancia. Llegan a tierra mientras los personajes cruzan las dunas y luego atacan. |
+
+---
 
 
 
