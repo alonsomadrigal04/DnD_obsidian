@@ -1,4 +1,5 @@
 **Ciclo** - serie de 10 días consecutivos, de Dulen a Duelo
+
 **Paso** - Un paso se trata del transcurso de 7 meses consecutivos que se conforman de 4 ciclos; desde Deshielo hasta Penuria
 Nóttsteinn -  Es el primer sol de Énosis, de color carmesí, mayor que su hermano Túnasteinn
 Túnasteinnn - 
@@ -31,4 +32,4 @@ Las casas tienen su propia jerarquia;
 Polemos
 	- [[Ventur]]
 	- [[Erikel]]
-	- [[Kerman]]
+	- [[Isla de Vrachos]]

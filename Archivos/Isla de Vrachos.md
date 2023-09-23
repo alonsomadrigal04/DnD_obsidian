@@ -6,7 +6,7 @@
 - Personajes importantes: 
 	- [[Haspes]], lider actual de la casa Kerman. Humano diplomático y de la alta corte, muy relacionao con la casa Ventur, tuvo muchos contactos con el primogénito de Latar, y llegaron a un acuerdo para que ambas casas tuvieran una buena relación.
 	- [[Merioth]], es el guerrero por excelencia en Kerman, es el guarda principal de [[Haspes]] lider principal de la casa Kerman. .
-		![[000a39bdcf7abd2c517a774cc6a06bb4.jpg]]
+		![[Merioth.jpg]]
 		
 
 - Relaciones con las demás casas:
