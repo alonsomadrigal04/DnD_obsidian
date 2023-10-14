@@ -1,0 +1,1 @@
+2 contrincante en el Torneo del Poder.
