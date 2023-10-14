@@ -43,3 +43,15 @@ Eventos de la fiesta en orden:
 <u>Discurso de Kerman</u>:
 "<font color="#548dd4">Buenas noches queridos compatriotas y futuros colaboradores.</font>
 <font color="#548dd4">Me complace ver que hay compañeros de Vértice aquí conmigo. Nos espera una noche llena de conversaciones interesantes y actividades espectaculares. Por favor, no os cortéis con comer el delicioso banquete que proporcionamos esta noche. Disfrutar de la compañía mientras os deleitáis con nuestra banda en directo. </font> "
+
+## <font color="#de7802">DESPUES DEL BAILE</font>
+---
+Para entrar en el bosque de las estrellas se tiene que superar un enorme laberinto:
+https://graphiteprime.blogspot.com/2018/10/mazes-monotony-or-how-to-run-actual-maze.html
+
+Laberinto sheets:
+	![[MonsterTemplateChainWreck_Page_1.jpg]]
+
+![[Maze2_Page_2.jpg]]
+
+
