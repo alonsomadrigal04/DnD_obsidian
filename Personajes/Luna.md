@@ -1,1 +1,1 @@
-2 contrincante en el Torneo del Poder.
+2 contrincante en el Torneo del Poder.![[Luna.png]]
