@@ -29,7 +29,18 @@ _Este torneo no es solo un desafío de fuerza, sino también un símbolo de unid
 
 1. Sospecha. Le han mentido a un sucursal del Torneo
 
+---
 
-| puntos | 1   | 2   | 3   | 4   | 5   | 6   |
-| ------ | --- | --- | --- | --- | --- | --- |
-|        |     |     |     |     |     |     |
+## <font color="#ffc000">Subtrama - Las armas Parlantes</font>
+---
+Mientras están una taberna, un mago llamado Maerion va a hablarles.
+
+<font color="#00b0f0">"Os felicito por vuestra victoria, sin embargo, me da cierta intrigar vuestra condición. Escucharme, sé que mentís y no sois elfos, no os delataré tranquilos. Pero a cambio quiero que me hagáis un favor.</font>
+
+<font color="#00b0f0">"Lo que propongo es un trato. Colaboren conmigo en una investigación de la más alta importancia, destinada a desentrañar una red de delincuencia que amenaza la integridad del torneo y la seguridad de sus participantes. A cambio de su cooperación, no revelaré sus verdaderas identidades y secretos ocultos. Además, si tienen éxito en esta empresa, serán recompensados generosamente."</font>
+
+### <font color="#fac08f">¿Por que los jugadores?</font>
+Los aventureros son elegidos por Maerion debido a su reputación como competidores destacados en el torneo del poder y su experiencia en situaciones desafiantes. Además, Maerion conoce un secreto vinculado a la maldición de las armas legendarias que afecta a los aventureros y considera que son los más adecuados para abordar el complot.
+
+### <font color="#fac08f">Quién es Maerion</font>
+Maerion es un mago poderoso y miembro de una delegación de [[Argentis]] que se dedica a la protección del reino circular de Enosis. Tiene sus propias razones para desmantelar la red de delincuencia en la ciudadela y busca la colaboración de los aventureros para lograrlo. No tiene relación directa con [[Seraphius]]. 
