@@ -1,3 +1,81 @@
+
+### 1. Prötá - Dragon del Sol y origen del mundo
+
+**Juramento: "Bajo el resplandor de Prötá, juro ser la luz en la oscuridad, la llama que guía el camino"**
+
+- **Poderes:**
+  1. **Manipulación de la Luz:** El conjurador puede controlar y dar forma a la luz, desde cegadores destellos hasta invisibilidad total.
+  2. **Generación de Energía Solar:** La capacidad de absorber y almacenar energía solar para liberar explosiones de luz intensa o potenciar otros poderes.
+  3. **Curación Solar:** La habilidad de sanar heridas utilizando la luz del sol.
+
+- **Consecuencias:**
+  1. **Fotofobia:** El uso excesivo de los poderes de Prötá puede hacer al conjurador sensible a la luz natural.
+  2. **Dependencia Solar:** Para acceder a sus poderes, el conjurador debe exponerse regularmente a la luz solar.
+
+### 2. Silkros - Dragon de la Oscuridad hermano de Prötá
+
+**Juramento: "En la sombra de Silkros, encuentro mi fortaleza; en la oscuridad, hallaré mi verdad"**
+
+- **Poderes:**
+  1. **Manipulación de Sombras:** La capacidad de controlar y dar forma a las sombras para fines ofensivos y defensivos.
+  2. **Invisibilidad Nocturna:** La habilidad de volverse invisible en entornos oscuros.
+  3. **Vinculación Oscura:** Puede crear vínculos sombríos para comunicarse telepáticamente con otros juramentados de Silkros.
+
+- **Consecuencias:**
+  1. **Fragilidad a la Luz:** La exposición prolongada a la luz solar debilita al conjurador.
+  2. **Tendencias Solitarias:** Los juramentados de Silkros tienden a alejarse de la luz y pueden volverse más reservados.
+
+### 3. Thymós - Dragon del Caos
+
+**Juramento: "Bajo la tormenta de Thymós, acepto el caos y lo domino; en el desorden, encuentro mi poder"**
+
+- **Poderes:**
+  1. **Manipulación del Caos:** La capacidad de generar y dirigir caos en forma de tormentas, tornados o cambios impredecibles en el entorno.
+  2. **Telequinesis Caótica:** Puede manipular objetos con fuerzas caóticas, desordenando o reorganizando estructuras.
+
+- **Consecuencias:**
+  1. **Vulnerabilidad a la Estabilidad:** La presencia de orden o estabilidad puede debilitar al conjurador.
+  2. **Cambio Impredecible:** El uso excesivo de los poderes de Thymós puede llevar a cambios impredecibles en la personalidad del juramentado.
+
+### 4. Mitrha - Dragon de la Naturaleza
+
+**Juramento: "En la esencia de Mitrha, me uno al ciclo de la vida; en la naturaleza, encuentro mi equilibrio"**
+
+- **Poderes:**
+  1. **Manipulación de la Flora y Fauna:** Control sobre plantas y animales, desde hacer crecer plantas hasta comunicarse con bestias.
+  2. **Curación Natural:** La habilidad de acelerar la curación utilizando la energía vital de la naturaleza.
+
+- **Consecuencias:**
+  1. **Empatía Extrema:** El juramentado puede sentir el sufrimiento de la naturaleza, lo que puede ser abrumador.
+  2. **Debilidad en Entornos Urbanos:** La falta de naturaleza debilita los poderes de Mitrha.
+
+### 5. Röm - Dragon Señor de los Cielos
+
+**Juramento: "En las alturas de Röm, alzo mi vuelo; en el viento, encuentro mi libertad"**
+
+- **Poderes:**
+  1. **Control Atmosférico:** Manipulación del clima, desde crear tormentas hasta controlar el viento.
+  2. **Vuelo Aéreo:** La capacidad de volar a altitudes asombrosas.
+
+- **Consecuencias:**
+  1. **Altura Sensible:** Cuanto más alto vuela, más poderoso es, pero también más vulnerable a ataques desde tierra.
+  2. **Dependencia del Cielo Abierto:** Los poderes de Röm son menos efectivos en espacios cerrados.
+
+### 6. Leviatán - Dragon Elemental del Océano
+
+**Juramento: "Bajo las olas de Leviatán, abrazo la profundidad; en el océano, encuentro mi fuerza"**
+
+- **Poderes:**
+  1. **Manipulación del Agua:** Control sobre cuerpos de agua, desde crear olas hasta extraer humedad del aire.
+  2. **Comunicación Marina:** Capacidad para hablar y comunicarse con criaturas marinas.
+
+- **Consecuencias:**
+  1. **Atracción por el Agua:** El juramentado siente una fuerte atracción hacia el agua, lo que puede ser peligroso en entornos secos.
+  2. **Debilidad ante la Sequía:** En entornos sin agua, los poderes de Leviatán son menos efectivos.
+
+Cada juramento ofrece poderes distintos con lógicas y consecuencias únicas, proporcionando un sistema de magia complejo y significativo. ¡Espero que encuentres estas ideas inspiradoras para tu mundo de fantasía!
+
+---
 **Dragon Prötá - La Honestidad y la Bondad:**
 
 1. _Juramento de Veracidad_: Al jurar por Prötá, obtienes la habilidad de detectar mentiras con una precisión sorprendente. Esto te permite saber cuándo alguien está mintiendo, pero también hace que las tuyas sean más fáciles de descubrir.
