@@ -44,3 +44,8 @@ Los aventureros son elegidos por Maerion debido a su reputación como competidor
 
 ### <font color="#fac08f">Quién es Maerion</font>
 Maerion es un mago poderoso y miembro de una delegación de [[Argentis]] que se dedica a la protección del reino circular de Enosis. Tiene sus propias razones para desmantelar la red de delincuencia en la ciudadela y busca la colaboración de los aventureros para lograrlo. No tiene relación directa con [[Seraphius]]. 
+
+
+## Después del combate de Luna
+---
+[[Seraphius]] ha escuhado un rumor de que hay cierta persona en los suburbios del este ha tendio contacto con uno de la lista: [[Purand Könt]] es el 4to miembro de las [[Portal de 5 claves]] . 

@@ -119,3 +119,28 @@ Laberinto sheets:
 ![[Maze2_Page_2.jpg]]
 
 
+# <font color="#fac08f">El mundo de la llama azul</font>
+---
+
+"<font color="#245bdb">Os encontráis en un mundo donde todo parece apagado y lúgubre, como si apenas la luz de la débil luna que se alza en vuestra cabeza pueda iluminar toda la estancia, la única cosa que deja distinguir la estancia es la espesa niebla de color blanquecino que se extiende por todo el lugar. Haciendo que los objetos alrededor de esta adquieran un macro color negro. Hay leves temblores en toda la estancia, estos temblores, provienen de distintas direcciones</font>"
+
+tabla de eventos:
+
+| 1d4 | Evento             | Descripción                                                                                                                                                                             |
+| --- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Gigante de Sombras | una luz que deja ver claramente los colores morados de toda la estancia de repente se dejan ver, por una gran masa de color negro que acecha a los jugadores 14 Stelth para esconderse. |
+| 2   | El anillo antiguo  | Una gran estructura de piedra se alza enfretne de los jugadores. Un señor de aspecto curioso se alza encima del anillo, los jugadores tienen que decir su mayor miedo para poder pasar  |
+| 3   | Pueblo masacrado   | Eventos como susurros cartas y mas cosas que dan lore a ala historia                                                                                                                    |
+| 4   | Hombre permido     | El hombre Perfido es un monje que lleva varios ciclos atrapado en esta dimension por que no les deja pasar una magia extaña que ahora nota disuelta                                     |
+| 5   | Aroles falsos      | Alguien te susurra y te pide ayuda dentro de un arbol el cual resulta que os ataca                                                                                                      |
+| 6   | Una panda de Grogs | Unos Grogs os miran desde la distancia, so n miles de putnos azules en la distancia, si se acercan demasiado se lanzarán contra ellos                                                   |
+| 7   | Un robot deshecho  | Delante de vosotros veis un robot masacrado                                                                                                                                             |
+| 8   | La llama           | Es el momento de improvisar                                                                                                                                                             |
+|     |                    |                                                                                                                                                                                         |
+
+
+Dimensiones:
+- La cima Dorada (Röm |Avaricia| )
+- El Laberinto de Ramthanar (Thymos |Caos| )
+- La Massa (Silkros y Mitrha |Oscuridad y naturaleza| )
+- Olimpo (Prötá |Poder| )
