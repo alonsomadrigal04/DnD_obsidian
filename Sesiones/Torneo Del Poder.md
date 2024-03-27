@@ -93,7 +93,9 @@ Si la sesión va muy rápido siempre se puede rellenar los espacios entre paseos
 Han ido a la casa en busca de los huesos de la calavera que encontraron en la torre de Punard Könt. 
 Son guiados hasta el sotano de la casa de punard Könt, allí abajo, él tenía una pequeña botiquería en la que realizaba distintos experimentos para sacar cualquier pócima.
 
-En ese sótano también se encontraba una mujer colgada de brazos y piernas de la pared, sujetaba el diario de Punard Könt. 
+En ese sótano también se encontraba una mujer colgada de brazos y piernas de la pared, sujetaba el diario de Punard Könt. Esta mujer se trata de la [[Mujer de Punard]].
+
+Cuando la sacan son atacados por miembros de la  [[iglesia Socrista]]
 # <font color="#de7802">La noche de las luciernagas</font>
 ---
 La noche de las luciérnagas es un evento que se lleva a cabo en las calles de Saalune antes de las semifinales del torneo. Todos los Equilibristas, Prötistas y Oscuros dejan de lado sus diferencias para rezar a los dragones que les dan gracia, guía y esperanza.
