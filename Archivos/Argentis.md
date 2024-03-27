@@ -1,3 +1,4 @@
+Torneo Del Poder
 ![[faccion malvada logo_pequeño.png]]
 
 ### <font color="#ffc000">Localización</font>

@@ -1,4 +1,4 @@
-
+Torneo Del Poder
 ### 1. Prötá - Dragon del Sol y origen del mundo
 
 **Juramento: "Bajo el resplandor de Prötá, juro ser la luz en la oscuridad, la llama que guía el camino"**

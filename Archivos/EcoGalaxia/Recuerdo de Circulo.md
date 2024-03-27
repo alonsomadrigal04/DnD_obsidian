@@ -1,0 +1,1 @@
+- Término de la Ecogalaxia.
