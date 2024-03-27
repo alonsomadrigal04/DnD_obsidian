@@ -96,6 +96,9 @@ Son guiados hasta el sotano de la casa de punard Könt, allí abajo, él tenía 
 En ese sótano también se encontraba una mujer colgada de brazos y piernas de la pared, sujetaba el diario de Punard Könt. Esta mujer se trata de la [[Mujer de Punard]].
 
 Cuando la sacan son atacados por miembros de la  [[iglesia Socrista]], la mujer parece segregar algún tipo de líquido negro desde la cuenca de su cabeza.
+
+Explicación de lo ocurrido:
+La [[iglesia Socrista]] se ha revolucionado por culpa de unas noticias que han salido recientemente, donde en la casa Ventalis se ha dado por muerta la religión y se prohíbe su práctica en todo territorio de la casa, a modo de protesta los Socristas están causando estragos planificados por todo Énosis.  
 # <font color="#de7802">La noche de las luciernagas</font>
 ---
 La noche de las luciérnagas es un evento que se lleva a cabo en las calles de Saalune antes de las semifinales del torneo. Todos los Equilibristas, Prötistas y Oscuros dejan de lado sus diferencias para rezar a los dragones que les dan gracia, guía y esperanza.
