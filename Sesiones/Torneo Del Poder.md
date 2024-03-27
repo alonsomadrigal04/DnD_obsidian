@@ -100,7 +100,7 @@ Cuando la sacan son atacados por miembros de la  [[iglesia Socrista]], la mujer 
 Explicación de lo ocurrido:
 La [[iglesia Socrista]] se ha revolucionado por culpa de unas noticias que han salido recientemente, donde en la casa Ventalis se ha dado por muerta la religión y se prohíbe su práctica en todo territorio de la casa, a modo de protesta los Socristas están causando estragos planificados por todo Énosis. 
 
-Se enteraron de que la mujer de Punard Könt, una equilibrista, era una de las mayores practicantes de todo Saalune, por lo que decidieron convertirla en un Vax Maati. Acercandola a la tumba de 
+Se enteraron de que la mujer de Punard Könt, una equilibrista, era una de las mayores practicantes de todo Saalune, por lo que decidieron convertirla en un Vax Maati. Acercándola a la tumba de Mithra (Dragona de la naturaleza), en la ciudad enterrada debajo de Saalune. Maldiciéndola, condenándola, para su muerte.
 # <font color="#de7802">La noche de las luciernagas</font>
 ---
 La noche de las luciérnagas es un evento que se lleva a cabo en las calles de Saalune antes de las semifinales del torneo. Todos los Equilibristas, Prötistas y Oscuros dejan de lado sus diferencias para rezar a los dragones que les dan gracia, guía y esperanza.
